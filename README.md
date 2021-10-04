@@ -10,8 +10,7 @@
   ``` //Edit this for changing styling and other CSS related activites. <br>
 <b> JavaScript for Toggle Animation </b>  Contained within index.html before the body tag enclosed within ``` <script></script> ``` tags. <br>
 
-<a href="http://travelbees-com.stackstaging.com/"> Live Video Background Landing Page </a> <br>
 
-<a href="https://akshayubc.github.io/responsive-landing-page/"> Live Background Landing Page (without Video)</a> <br>
+<a href="https://akshayubc.github.io/responsive-landing-page/"> Live Background Landing Page </a> <br>
 
 Note: Make sure to link your videos instead of uploading large video files. Github file limit is 100MB (something you don't have to worry about if you're just uploading lines of code). 
